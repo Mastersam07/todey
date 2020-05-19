@@ -27,22 +27,29 @@ Get the latest installable version of Todey .
 * A brain to think 🤓
 
 ## ✨ Roadmap
-- [] Add and remove tasks
-- [] Organize tasks under categories
-- [] Add due date
-- [] Tag tasks
-- [] Swipe to delete tasks
-- [] Edit tasks
+- [ ] Add and remove tasks
+- [ ] Organize tasks under categories
+- [ ] Add due date
+- [ ] Tag tasks
+- [ ] Swipe to delete tasks
+- [ ] Edit tasks
+- [ ] Dark mode
 
 
 ## 📸 ScreenShots
 
-| Light| Dark|
+| Light  | Dark |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
 
 
 ## 🔌 Plugins
 
-| Name | Usage |
+| Name  | Usage |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
 
 
 ## Dependencies
