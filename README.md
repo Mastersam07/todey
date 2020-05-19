@@ -12,9 +12,11 @@ A minimal task management app built with flutter
 
 
 ## App
-Click [here]() to get the latest installable version of Todo for Android.
-<br>
-<a href="#"><img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" width="250"></a>
+Get the latest installable version of Todey .
+<br> 
+<a href="#"><img src="https://www.designpieces.com/wp-content/uploads/2016/02/google-play-badge-300x89.png" width="250"></a>
+<a href="#"><img src="https://www.designpieces.com/wp-content/uploads/2016/02/download-on-the-app-store.png" width="250"></a>
+
 <br>
 
 ## 💻 Requirements
@@ -34,10 +36,12 @@ Click [here]() to get the latest installable version of Todo for Android.
 
 
 ## 📸 ScreenShots
+
 | Light| Dark|
 
 
 ## 🔌 Plugins
+
 | Name | Usage |
 
 
